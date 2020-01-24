@@ -65,7 +65,13 @@ Espero que este doc possa servir como um guia para você, e que lhe dê um bom d
 
 > Faço uma última observação, não foi inclusa aqui nos tópicos, mas deve ser o Step 0 para seu desenvolvimento, **HARD PRIORITY** *Aprenda Sobre Cloud*, isso está no ápice do mercado de tecnologia, e um bom desenvolvedor deve ter esse conceito e habilidade para se garantir no mercado de trabalho, saiba como construir uma aplicação em Cloud, fazer um deploy, acompanhar seu build etc. com essa receita você terá boas chances de se tornar um profissional bem qualificado e preparado, e como você pode notar a carga acima é bem grande, então corre... e comece já o seu upskilling, pois você não esta sozinho nessa jornada, as vagas estão em chamas para TI, mas ficar parado e deixar para depois o que você pode fazer hoje não vai te beneficiar na hora do processo para developer!
 
-Boa sorte!
+Boa sorte!  :mortar_board: :computer: :nerd_face: :octocat: :skull: :punch: :headphones:
 
 E lembre-se...
-> Um bom conhecimento é um conhecimento compartilhado
+> Um bom conhecimento é um conhecimento compartilhado 
+
+
+
+by:
+
+![](https://github.com/weslen02/steps-to-become-a-node-js-developer/blob/master/img/assWeslen2.png)
