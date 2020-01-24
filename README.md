@@ -13,6 +13,7 @@ Como se tornar um desenvolvedor jr. node.js, cursos dos tópicos 100% free de mu
 - [6. JS](#6-js)
 - [7. Node.js](#7-nodejs)
 - [8. Frameworks js front-end](#8-framework-js-front-end)
+- [9. PS](#9-ps)
     
 ## Steps 
 
@@ -53,7 +54,7 @@ Como se tornar um desenvolvedor jr. node.js, cursos dos tópicos 100% free de mu
 - [Op2 - React](https://www.youtube.com/watch?v=0k3czp6O-qg&list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7)
 - [Op2 - Documento React em pt-br com um projeto exemplo](https://pt-br.reactjs.org/tutorial/tutorial.html)
 
-
+### 9. PS:
 
 Cursos de baixo custo recomendados:
 - [Git e constribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/learn/lecture/6995588#overview)
