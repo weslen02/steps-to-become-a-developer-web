@@ -1,6 +1,6 @@
 # Steps to become a node.js developer
 
-Como se tornar um desenvolvedor jr. node.js, cursos dos tópicos 100% free de muitos instrutores de qualidade que utilizei para me desenvolver e recomendo grandemente.
+Como se tornar um desenvolvedor jr. node.js, cursos dos tópicos 100% free de muitos instrutores de qualidade que utilizei para me desenvolver e recomendo fortemente.
 
 > Os passos a seguir devem ser acompanhados em sua devida ordem para que haja um melhor proveito de absorvição no aprendizado, isto ocorre porque a ordem lógica é facilitada como a estrutura abaixo é apresentada em que um nível de dificuldade vai se expandindo conforme os steps vão sendo seguidos.
 
