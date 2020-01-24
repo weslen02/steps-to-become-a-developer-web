@@ -42,9 +42,10 @@ Como se tornar um desenvolvedor jr. node.js, cursos dos tópicos 100% free de mu
 
 ### 7. Node.js:
 - [Curso de Node.js](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+- [Guia](https://nodejs.org/pt-br/docs/guides/)
 
 ### 8. Framework js front-end:
-> Aconselho a escolher apenas um desses frameworks, pois curva de aprendizagem é grande para cada um deles, a escolha de vários, penso que seja uma perda de foco, e mantendo-se em apenas um você terá um melhor proveito no íncio.
+> Aconselho a escolher apenas um desses frameworks, pois a curva de aprendizagem é grande para cada um deles, a escolha de vários, penso que seja uma perda de foco, e mantendo-se em apenas um você terá um melhor proveito no íncio.
 - [Op1 - Vue.js](https://www.youtube.com/watch?v=Rz7D51uU_gY&list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh)
 - [Op1 - Documento Vue.js em pt-br com um projeto exemplo](https://br.vuejs.org/v2/guide/)
 - [Op2 - React](https://www.youtube.com/watch?v=0k3czp6O-qg&list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7)
@@ -58,7 +59,7 @@ Cursos de baixo custo recomendados:
 > [Curso Javascript completo](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/learn/lecture/8764238#overview)
 > [React Ninja](https://www.udemy.com/course/reactjs-ninja-modulo-react-webpack/learn/lecture/6964372#overview)
 
-Mesmos com esses processos, ainda não é garantido que será um desenvolvedor jr., mas é um start para seu desenvolvimento como programador (WEB) em Node.js, e irá servir também como um guia.
+Mesmo com esses processos, ainda não é garantido que será um desenvolvedor jr., mas é um start para seu desenvolvimento como programador (WEB) em Node.js, e irá servir também como um guia.
 Quando comecei a me desenvolver não tinha a menor noção por onde começar, quais eram os passos, o que as empresas queriam de mim como desenvolvedor, hoje atuando na área sei qual é esse processo, e acima tenho cem por cento de certeza que qualquer empresa pedirá um ou todos estes steps para uma vaga como developer.
 Espero que este doc possa servir como um guia para você, e que lhe dê um bom direcionamento para seu upskilling. Não é um guia de book expert com biografias e referências, mas espero que seja um norte para seu desenvolvimento.
 
