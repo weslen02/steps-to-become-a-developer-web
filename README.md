@@ -60,7 +60,7 @@ Cursos de baixo custo recomendados:
 - [Git e constribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/learn/lecture/6995588#overview)
 - [Git e GitHub para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120486?start=0#overview) *PS: Este curso esteve gratuito por um tempo, mas não sei se ainda está deste modo.*
 - [Curso Javascript completo](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/learn/lecture/8764238#overview)
-- [Curso completo de Vew.js](https://www.udemy.com/course/vue-js-completo/learn/lecture/12629250?start=0#overview)
+- [Curso completo de Vue.js](https://www.udemy.com/course/vue-js-completo/learn/lecture/12629250?start=0#overview)
 - [Curso completo de React Ninja](https://www.udemy.com/course/reactjs-ninja-modulo-react-webpack/learn/lecture/6964372#overview)
 
 Mesmo com esses processos, ainda não é garantido que será um desenvolvedor jr., mas é um start para seu desenvolvimento como programador (WEB) em Node.js, e irá servir também como um guia.
