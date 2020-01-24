@@ -60,13 +60,18 @@ Cursos de baixo custo recomendados:
 - [Git e constribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/learn/lecture/6995588#overview)
 - [Git e GitHub para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120486?start=0#overview) *PS: Este curso esteve gratuito por um tempo, mas não sei se ainda está deste modo.*
 - [Curso Javascript completo](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/learn/lecture/8764238#overview)
-- [React Ninja](https://www.udemy.com/course/reactjs-ninja-modulo-react-webpack/learn/lecture/6964372#overview)
+- [Curso completo de Vew.js](https://www.udemy.com/course/vue-js-completo/learn/lecture/12629250?start=0#overview)
+- [Curso completo de React Ninja](https://www.udemy.com/course/reactjs-ninja-modulo-react-webpack/learn/lecture/6964372#overview)
 
 Mesmo com esses processos, ainda não é garantido que será um desenvolvedor jr., mas é um start para seu desenvolvimento como programador (WEB) em Node.js, e irá servir também como um guia.
 Quando comecei a me desenvolver não tinha a menor noção por onde começar, quais eram os passos, o que as empresas queriam de mim como desenvolvedor, hoje atuando na área sei qual é esse processo, e acima tenho cem por cento de certeza que qualquer empresa pedirá um ou todos estes steps para uma vaga como developer.
 Espero que este doc possa servir como um guia para você, e que lhe dê um bom direcionamento para seu upskilling. Não é um guia de book expert com biografias e referências, mas espero que seja um norte para seu desenvolvimento.
 
 > Faço uma última observação, não foi inclusa aqui nos tópicos, mas deve ser o Step 0 para seu desenvolvimento, **HARD PRIORITY** *Aprenda Sobre Cloud*, isso está no ápice do mercado de tecnologia, e um bom desenvolvedor deve ter esse conceito e habilidade para se garantir no mercado de trabalho, saiba como construir uma aplicação em Cloud, fazer um deploy, acompanhar seu build etc. com essa receita você terá boas chances de se tornar um profissional bem qualificado e preparado, e como você pode notar a carga acima é bem grande, então corre... e comece já o seu upskilling, pois você não esta sozinho nessa jornada, as vagas estão em chamas para TI, mas ficar parado e deixar para depois o que você pode fazer hoje não vai te beneficiar na hora do processo para developer!
+
+#### E para ser um Desenvolvedor Java o que tenho que fazer? Clique no link abaixo e saiba mais sobre steps para desenvolvedor Java Web:
+(Veja os passos para se tornar um desenvolvedor Java Web)[https://github.com/weslen02/steps-to-become-a-developer-web]
+
 
 Boa sorte!  :mortar_board: :computer: :nerd_face: :octocat: :skull: :punch: :headphones:
 
@@ -77,4 +82,4 @@ E lembre-se...
 
 by:
 
-![](https://github.com/weslen02/steps-to-become-a-node-js-developer/blob/master/img/assWeslen2.png)
+![](https://github.com/weslen02/steps-to-become-a-developer-web/blob/master/img/assWeslen2.png)
