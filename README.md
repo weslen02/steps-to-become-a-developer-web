@@ -36,9 +36,11 @@ Como se tornar um desenvolvedor jr. node.js, cursos dos tópicos 100% free de mu
 - [Bootstrep](https://jornadadodev.com.br/cursos/curso-de-bootstrap-30)
 
 ### 6. JS:
+- [O que é DOM](https://developer.mozilla.org/pt-BR/docs/DOM/Referencia_do_DOM/Introdu%C3%A7%C3%A3o)
 - [Curso 1 de Javascript](https://jornadadodev.com.br/cursos/curso-completo-de-javascript?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=curso-completo-de-javascript)
 - [Curso 2 de Javascript](https://www.youtube.com/playlist?list=PLWd_VnthxxLdQyD4SiYlXFJK9nsxUFkHt)
 - [Book JS](https://github.com/braziljs/eloquente-javascript)
+- [Manipulando o DOM](https://www.youtube.com/watch?v=4M2QZW50L2c)
 
 ### 7. Node.js:
 - [Curso de Node.js](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
