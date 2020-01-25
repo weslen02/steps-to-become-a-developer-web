@@ -69,7 +69,7 @@ Espero que este doc possa servir como um guia para você, e que lhe dê um bom d
 Boa sorte!  :mortar_board: :computer: :nerd_face: :octocat: :skull: :punch: :headphones:
 
 E lembre-se...
-> Um bom conhecimento é um conhecimento compartilhado 
+> Um bom conhecimento é um conhecimento compartilhado!
 
 
 
